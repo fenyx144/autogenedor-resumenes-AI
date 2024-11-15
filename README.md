@@ -4,18 +4,18 @@ Este proyecto utiliza el modelo preentrenado **BART** de Hugging Face para gener
 
 ## 🚀 Cómo usar
 
- 1. Clona el repositorio:
+ #### 1. Clona el repositorio:
     ```bash
    git clone https://github.com/fenyx144/autogenedor-resumenes-AI.git
-   cd generador-resumenes-ia
+   cd autogenedor-resumenes-AI
     ```
 
-2.Instala las dependencias:
+#### 2.Instala las dependencias:
 
     ```bash
     pip install transformers torch
     ```
-3.Abre el archivo Jupyter Notebook autogenedor-resumenes-AI.ipynb en tu entorno de Jupyter:
+#### 3.Abre el archivo Jupyter Notebook autogenedor-resumenes-AI.ipynb en tu entorno de Jupyter:
 ```bash
     jupyter notebook autogenedor-resumenes-AI.ipynb
 ```
